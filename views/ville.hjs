@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1>Votre ville est {{ ville }}</h1>
+    <p>Welcome to the second page !</p>
+
+  </body>
+</html>
