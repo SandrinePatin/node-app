@@ -8,5 +8,7 @@
     <h1>Votre ville est {{ ville }}</h1>
     <p>Welcome to the second page !</p>
 
+    <p>Longitude : {{longitude}} </p>
+    <p>Latitude : {{latitude}} </p>
   </body>
 </html>
