@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "ava": "^3.5.0",
+    "ava": "^5.2.0",
     "axios": "^0.19.2",
     "cookie-parser": "~1.4.4",
     "debug": "^2.6.9",
